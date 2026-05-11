@@ -30,11 +30,6 @@ Soy un desarrollador Junior apasionado por la creación de software, con experie
 
 ---
 
-### 📂 Proyectos Destacados
-
-* 🔗 **[Nombre de tu API en GitHub]**: API RESTful desarrollada con Java y Spring Boot, utilizando Spring Data JPA y MySQL.
----
-
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
