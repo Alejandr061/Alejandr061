@@ -33,7 +33,7 @@ Soy un desarrollador Junior apasionado por la creación de software, con experie
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandrohidsan&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejandr061&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrohidsan&layout=compact&theme=radical" alt="Lenguajes más usados" width="45%"/>
 </p>
 
